@@ -19,7 +19,7 @@ louvain algorithm or scan algorithm or k-means
 $ python3 pagerank_v.py
 ```
 - 分析例
-!(./img/result.png)
+!(img/result.png)
 ## dataset
 - YouTubeAPIを用いた自作データセット
     ./data/vtuber-data.txt
